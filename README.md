@@ -1,9 +1,9 @@
 # Hi there, I'm Mukul! 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Mukul's Profile Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukulMBR/MukulMBR/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MukulMBR/MukulMBR/main/light.svg">
+  <img alt="Mukul's Profile Banner" src="https://raw.githubusercontent.com/MukulMBR/MukulMBR/main/dark.svg" width="100%">
 </picture>
 
 ---
