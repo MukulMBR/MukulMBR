@@ -9,7 +9,7 @@
       .text-mono { font-family: 'Fira Code', monospace; font-weight: 500; }
       .text-mono-bold { font-family: 'Fira Code', monospace; font-weight: 700; }
       
-      /* Glassmorphism & Panel Styling (Light Mode) */
+      /* Glassmorphism and Panel Styling (Light Mode) */
       .panel-bg { fill: #F8FAFC; fill-opacity: 0.85; stroke: rgba(15, 23, 42, 0.08); stroke-width: 1.5; filter: url(#shadow-panel); }
       .terminal-header { fill: #F1F5F9; stroke: rgba(15, 23, 42, 0.08); stroke-width: 1.5; }
       
@@ -125,7 +125,7 @@
     </circle>
   </g>
 
-  <!-- CRT scanlines & Noise Overlay -->
+  <!-- CRT scanlines and Noise Overlay -->
   <rect width="1180" height="610" rx="20" class="scanline" pointer-events="none" />
   <rect width="1180" height="610" rx="20" class="noise" pointer-events="none" />
 
@@ -402,7 +402,7 @@
         </g>
       </g>
 
-      <!-- SOCIAL MEDIA & CONTACT ICONS -->
+      <!-- SOCIAL MEDIA and CONTACT ICONS -->
       <g transform="translate(0, 360)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.8s" fill="freeze" />
         

@@ -9,7 +9,7 @@
       .text-mono { font-family: 'Fira Code', monospace; font-weight: 500; }
       .text-mono-bold { font-family: 'Fira Code', monospace; font-weight: 700; }
       
-      /* Glassmorphism & Panel Styling */
+      /* Glassmorphism and Panel Styling */
       .panel-bg { fill: #0F172A; fill-opacity: 0.75; stroke: rgba(255, 255, 255, 0.08); stroke-width: 1.5; filter: url(#blur-panel); }
       .terminal-header { fill: #1E293B; stroke: rgba(255, 255, 255, 0.08); stroke-width: 1.5; }
       
@@ -24,7 +24,7 @@
       /* Keyframe animations using SMIL */
     </style>
 
-    <!-- Filters for Glow & Blur -->
+    <!-- Filters for Glow and Blur -->
     <filter id="blur-panel" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="12" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
@@ -140,7 +140,7 @@
     </circle>
   </g>
 
-  <!-- CRT scanlines & Noise Overlay -->
+  <!-- CRT scanlines and Noise Overlay -->
   <rect width="1180" height="610" rx="20" class="scanline" pointer-events="none" />
   <rect width="1180" height="610" rx="20" class="noise" pointer-events="none" />
 
@@ -420,7 +420,7 @@
         </g>
       </g>
 
-      <!-- SOCIAL MEDIA & CONTACT ICONS -->
+      <!-- SOCIAL MEDIA and CONTACT ICONS -->
       <g transform="translate(0, 360)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.8s" fill="freeze" />
         
